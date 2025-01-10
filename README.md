@@ -1,7 +1,7 @@
 # Match-Predictor
 
 An accurate predictor of Football Matches of our club. You can predict your matches and get to your flag
-Your Flag format is flag{accuracy percentage,precision,recall,dataset samples no in each,Nos of parameter}
+Your Flag format is flag{dataset samples no in each,Nos of parameter,both parameter names} with commas
 
 ## Dataset
 
